@@ -4,3 +4,4 @@ There is a navigation bar there that will assist the user to navigate through th
 There is also a link named "For more info" in navigation bar that will direct the viewer to official WHO website.
 The data displayed on the website is taken from WHO website.
 There is return link on each of the connected page to return to Home page.
+The file is uploaded in zipped format. Kindly extract it all.
